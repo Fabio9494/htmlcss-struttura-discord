@@ -1,7 +1,13 @@
 *{
-    margin: 0;
+    margin: 0 ;
     padding: 0;
     box-sizing: border-box;
+}
+
+body{
+    width: 1000px;
+    border: dashed 2px black;
+    margin: auto;
 }
 
 /*header*/
@@ -89,6 +95,11 @@ footer{
     background-color: #FFC0CB;
 }
 
+.bg-228B22{
+    background-color: #228B22;
+}
+
+
 
 /*width*/
 .width-400{
@@ -102,6 +113,20 @@ footer{
 .width-500{
     width: 500px;
 }
+
+.width-900{
+    width: 900px;
+}
+
+.height-600{
+    height: 600px;
+}
+
+.height-550{
+    height: 550px;
+}
+
+
 
 /*position items*/
 .justify-content-center{
