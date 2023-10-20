@@ -15,8 +15,26 @@ header{
 }
 
 footer{
-    background-color: rgb(35, 39, 42);
+    background-color:rgb(35, 39, 42);
     height: 100px;
+}
+
+.row{
+    width: 100%;
+    height: 200px;
+    border: solid 1px gray;
+}
+
+.bg-blue{
+    background-color:rgb(0,0,139) ;
+}
+
+.bg-white{
+    background-color:white;
+}
+
+.bg-gray{
+    background-color: rgb(211, 211, 211);
 }
 
 
