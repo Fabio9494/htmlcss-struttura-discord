@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(173,216,230);
+    height: 100px;
+}
+
+.conteiner{
+    background-color: red;
+    height: 1000px;
+}
+
+footer{
+    background-color: rgb(35, 39, 42);
+    height: 100px;
+}
+
+
