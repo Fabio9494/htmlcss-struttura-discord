@@ -67,7 +67,15 @@ li{
 /*footer*/
 footer{
     background-color:rgb(35, 39, 42);
-    height: 100px;
+}
+
+.row-footer{
+    display: flex;
+}
+
+.col-footer{
+    height: 380px;
+    border: dashed 2px white;
 }
 
 /*background color*/
@@ -99,6 +107,14 @@ footer{
     background-color: #228B22;
 }
 
+.bg-F08080{
+    background-color: #F08080;
+}
+
+.bg-20B2AA{
+    background-color: #20B2AA;
+}
+
 
 
 /*width*/
@@ -118,12 +134,20 @@ footer{
     width: 900px;
 }
 
+.width-150{
+    width: 150px;
+}
+
 .height-600{
     height: 600px;
 }
 
 .height-550{
     height: 550px;
+}
+
+.height-400{
+    height: 400px;
 }
 
 
